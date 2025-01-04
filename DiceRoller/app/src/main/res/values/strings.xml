@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="description">RollMaster: Your Ultimate Dice Roller</string>
+</resources>

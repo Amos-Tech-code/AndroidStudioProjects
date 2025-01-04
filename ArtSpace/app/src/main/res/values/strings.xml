@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="art_title1">Artwork Title 1</string>
+    <string name="artist1">Artist Name 1 (2020)</string>
+    <string name="art_title2">Artwork Title 2</string>
+    <string name="artist2">Artist Name 2 (2022)</string>
+    <string name="art_title3">Artwork Title 3</string>
+    <string name="artist3">Artist Name 3 (2023)</string>
+</resources>
